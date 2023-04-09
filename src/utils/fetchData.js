@@ -16,7 +16,7 @@
 };
 
 
-//export const fetchData = async (url, option) => {
+export const fetchData = async (url, option) => {
     const response = await fetch(url, option);
     const data = await response.json();
 
