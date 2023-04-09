@@ -18,7 +18,7 @@ const Home = ({age,level}) => {
     const ageArr = ['0','20','40','60']
     const levelArr = ['0','1','2','3']
 
-    //let ind1=-1;
+    let ind1=-1;
     let ind2 = -1;
     for(var i=0;i<ageArr.length;i++){
         if(age===ageArr[i]){
