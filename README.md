@@ -1,4 +1,4 @@
-# Gym Exercises website
+# Gym Fitness website
 I have build this website using reactJS and used rapid api for getting different exercises details and their gifs.
 I have used [ExerciseDb](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) and [youtube search and download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) api for getting data.
 
