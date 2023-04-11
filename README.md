@@ -10,23 +10,3 @@ Also It show's exercises that target same muscle group and also exercises that u
 It's live hosted on netlify.
 
 [Live Hosted Link](https://golds-gym-up1512001.netlify.app/)
-
-# Images
-
-### Basic site view
-![](./src/assets/images/ss1%20(1).png)
-
-### Search view
-![](./src/assets/images/ss1%20(2).png)
-
-### Card shows different exercises
-![](./src/assets/images/ss1%20(3).png)
-
-### Detail about selected exercise
-![](./src/assets/images/ss1%20(4).png)
-
-### Related youtube videos
-![](./src/assets/images/ss1%20(5).png)
-
-### Exercises target same muscle and uses same equipment
-![](./src/assets/images/ss1%20(6).png)
