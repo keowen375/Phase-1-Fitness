@@ -11,5 +11,5 @@ It's live hosted on netlify.
 
 [Live Hosted Link](https://golds-gym-up1512001.netlify.app/)
 
-#Author 
+##Author 
 MICHAEL OWEN
